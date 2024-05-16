@@ -40,7 +40,7 @@
         &bt BT_CLR       &bt BT_PRV  &trans        &trans        &trans        &trans        &trans        &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
 &trans  &trans           &trans      &trans        &trans        &trans        &trans        &trans        &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
 &trans  &trans           &trans      &trans        &trans        &trans        &trans        &trans        &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
-&trans  &kp PRINTSCREEN  &trans      &trans        &trans        &trans        &trans        &trans        &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &kp PRINTSCREEN  &trans      &kp LEFT_WIN  &kp LEFT_ALT  &trans        &trans        &trans        &trans  &trans  &trans  &trans  &trans  &trans
             >;
         };
 
